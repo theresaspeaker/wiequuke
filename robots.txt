@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ratheerai.rtcmulticonnection.org/sitemap.xml
